@@ -35,8 +35,8 @@ A comprehensive booking management system for coordinating schedules between Sch
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ncr-planner.git
-cd ncr-planner
+git clone https://github.com/lance232/NCR-Planner.git
+cd NCR-Planner
 ```
 
 2. Install dependencies:
@@ -44,7 +44,7 @@ cd ncr-planner
 npm install
 ```
 
-3. Install React (required peer dependencies):
+3. Install React peer dependencies:
 ```bash
 npm install react@18.3.1 react-dom@18.3.1
 ```
